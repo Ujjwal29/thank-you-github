@@ -1294,3 +1294,4 @@ Signed,
 - Eduardo Bachiega ([@eduardobachiega](https://github.com/eduardobachiega)), Android Developer, Brazil
 - Arpan Konar ([@arpank10](https://github.com/arpank10)), Cse Sophomore at IIT Guwahati, India
 - Icaro Leite ([@icaaro](https://github.com/icaaro)), Student, Salvador, Brazil
+- Ujjwal Jain ([@Ujjwal29](https://github.com/ujjwal29)), Student, IIIT-Bangalore, India
